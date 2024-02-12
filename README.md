@@ -20,8 +20,14 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 ## Login Page 
 Login page 
+
 ![alt text](https://github.com/BilalHunturk/Login-Register-Page/blob/main/app/images/loginPage.PNG)
 
 ## Register Page
 Register Page
+
 ![alt text](https://github.com/BilalHunturk/Login-Register-Page/blob/main/app/images/registerPage.PNG)
+
+## Homepage
+homepage
+![alt text](https://github.com/BilalHunturk/Login-Register-Page/blob/main/app/images/homepage.PNG)
