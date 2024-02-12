@@ -18,4 +18,10 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
+## Login Page 
+Login page 
+![alt text](https://github.com/BilalHunturk/Login-Register-Page/blob/main/app/images/loginPage.PNG)
 
+## Register Page
+Register Page
+![alt text](https://github.com/BilalHunturk/Login-Register-Page/blob/main/app/images/registerPage.PNG)
